@@ -1,0 +1,20 @@
+{
+  "name": "electron-react-minimal-boilerplate",
+  "version": "0.1.0",
+  "homepage": "./",
+  "main": "src/electron-starter.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "electron": "electron .",
+    "electron-dev": "ELECTRON_START_URL=http://localhost:3000 electron ."
+  },
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "devDependencies": {
+    "electron": "^2.0.2",
+    "react-scripts": "^1.1.4"
+  }
+}
