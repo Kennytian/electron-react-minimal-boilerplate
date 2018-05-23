@@ -7,7 +7,7 @@ Only 3 dependencies:
 - electron
 
 #### How to run
-1. `git clone electron-react-minimal-boilerplate`
+1. `git clone https://github.com/Kennytian/electron-react-minimal-boilerplate.git`
 2. `cd electron-react-minimal-boilerplate && yarn`
 3. `yarn start`
 4. `yarn electron-dev`
